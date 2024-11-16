@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name": "The Shawshank Redemption",
+    "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d26b48f88d5398cad86d2fd26d32b258d43e51d4e2f949c3848be69a1e147446.jpg",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "rate": "9.3",
+    "comments": [
+      {
+        "date": "12 11 2024",
+        "title": "Harika Bir Film",
+        "content": "Bir insanın özgürlük ve umut arayışını anlatan başyapıt. İzlerken çok etkilendim."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Efsane",
+        "content": "Bütün karakterler çok güçlüydü. Morgan Freeman'ın performansı unutulmaz."
+      },
+      {
+        "date": "05 11 2024",
+        "title": "İzlenmesi Gereken Film",
+        "content": "Yavaş başlasa da sonu inanılmaz. Film boyunca gerilimi hissettiniz."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Mükemmel",
+        "content": "Hikaye, karakterler ve sinematografi gerçekten olağanüstü. Her saniyesi değerli."
+      },
+      {
+        "date": "08 11 2024",
+        "title": "Harika",
+        "content": "Çok iyi bir film. Karakter derinlikleri ve hikaye gerçekten etkileyici."
+      }
+    ],
+    "actors": [1, 2]
+  },
+  {
+    "id": 2,
+    "name": "The Godfather",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "rate": "9.2",
+    "comments": [
+      {
+        "date": "12 11 2024",
+        "title": "Mükemmel",
+        "content": "Hikaye, karakterler ve sinematografi gerçekten olağanüstü. Her saniyesi değerli."
+      },
+      {
+        "date": "08 11 2024",
+        "title": "Harika",
+        "content": "Çok iyi bir film. Karakter derinlikleri ve hikaye gerçekten etkileyici."
+      },
+      {
+        "date": "11 11 2024",
+        "title": "Sinemanın Başyapıtı",
+        "content": "Vito Corleone'nin karakteri çok derin ve unutulmaz. Al Pacino'nun performansı müthiş."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Efsanevi Bir Film",
+        "content": "Klasiklerin en iyisi. Sadece mafya filmi değil, insan ruhunun derinliklerine inen bir yapım."
+      }
+    ],
+    "actors": [3, 4]
+  },
+  {
+    "id": 3,
+    "name": "The Dark Knight",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_FMjpg_UX1000_.jpg",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "rate": "9.0",
+    "comments": [
+      {
+        "date": "11 11 2024",
+        "title": "Gerilim Dolu",
+        "content": "Heath Ledger'in Joker performansı sinema tarihinin en iyilerinden biri."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Büyüleyici",
+        "content": "Film her sahnesiyle sizi içine çekiyor. Aksiyon, dram ve psikolojik çözümleme çok iyi harmanlanmış."
+      }
+    ],
+    "actors": [5, 6]
+  },
+  {
+    "id": 4,
+    "name": "Schindler's List",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXFdWVZc-JCJibNWStx4DWWAOAN4dBYlF0Ug&s",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "rate": "9.0",
+    "comments": [
+      {
+        "date": "10 11 2024",
+        "title": "Unutulmaz",
+        "content": "Bu film insanlık tarihinin en derin ve acı veren hikayelerinden biri."
+      },
+      {
+        "date": "09 11 2024",
+        "title": "Ağlatan Bir Film",
+        "content": "Film izlerken duygusal olarak çöktüm. Gerçekten önemli bir yapım."
+      },
+      {
+        "date": "08 11 2024",
+        "title": "Efsane",
+        "content": "Sinemada derin bir etkisi olan bir film. Herkesin izleyip anlaması gereken bir yapım."
+      }
+    ],
+    "actors": [7, 8]
+  },
+  {
+    "id": 5,
+    "name": "The Lord of the Rings: The Return of the King",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "rate": "8.9",
+    "comments": [
+      {
+        "date": "11 11 2024",
+        "title": "Başarılı Final",
+        "content": "Triloginin mükemmel bir finali. Savaş sahneleri ve karakter gelişimi olağanüstü."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Mükemmel",
+        "content": "Film boyunca hissettiğimiz bağlar, aksiyon ve duygusal derinlik harika bir şekilde birleşmiş."
+      },
+      {
+        "date": "09 11 2024",
+        "title": "Efsane",
+        "content": "Tüm zamanların en iyi fantastik yapımlarından biri."
+      }
+    ],
+    "actors": [9, 10]
+  },
+  {
+    "id": 6,
+    "name": "Forrest Gump",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "rate": "8.8",
+    "comments": [
+      {
+        "date": "12 11 2024",
+        "title": "Harika Bir Hikaye",
+        "content": "Tom Hanks'in performansı bir harika. Duygusal derinlikleri çok iyi hissettiriyor."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Sonsuza Dek Hatırlanacak",
+        "content": "Filmdeki karakterler çok derin. Forrest Gump'ın yolculuğu kesinlikle unutulmaz."
+      },
+      {
+        "date": "09 11 2024",
+        "title": "İzlenmeye Değer",
+        "content": "Her sahnesi anlamlı ve dokunaklıydı. Herkesin mutlaka izlemesi gereken bir yapım."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Efsane",
+        "content": "Bütün karakterler çok güçlüydü. Morgan Freeman'ın performansı unutulmaz."
+      },
+      {
+        "date": "05 11 2024",
+        "title": "İzlenmesi Gereken Film",
+        "content": "Yavaş başlasa da sonu inanılmaz. Film boyunca gerilimi hissettiniz."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Mükemmel",
+        "content": "Hikaye, karakterler ve sinematografi gerçekten olağanüstü. Her saniyesi değerli."
+      },
+      {
+        "date": "08 11 2024",
+        "title": "Harika",
+        "content": "Çok iyi bir film. Karakter derinlikleri ve hikaye gerçekten etkileyici."
+      }
+    ],
+    "actors": [11, 12]
+  },
+  {
+    "id": 7,
+    "name": "The Matrix",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSjSWOCaw5dnDL2GT1zFd9RMCgUGw5Q2Cfg&s",
+    "year": 1999,
+    "director": "The Wachowskis",
+    "rate": "8.7",
+    "comments": [
+      {
+        "date": "12 11 2024",
+        "title": "Başarılı bir yapım",
+        "content": "Çok etkileyici bir film. Aksiyon ve felsefi boyutları harika birleşmiş."
+      },
+      {
+        "date": "11 11 2024",
+        "title": "Zihin Açıcı",
+        "content": "Her izleyişimde yeni bir şey keşfettim. Çok katmanlı ve zekice yazılmış bir senaryo."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Efsanevi",
+        "content": "Keanu Reeves'in başrolü müthişti. Sinema tarihinin en önemli yapımlarından biri."
+      }
+    ],
+    "actors": [13, 14]
+  },
+  {
+    "id": 8,
+    "name": "Interstellar",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zt0lp-O3XdL8zzdrEvyzmcl6kOwfgbv4xQ&s",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "rate": "8.6",
+    "comments": [
+      {
+        "date": "11 11 2024",
+        "title": "Etkileyici",
+        "content": "Yönetmen Nolan gerçekten büyük bir iş çıkarmış. Görsellik ve hikaye çok etkileyici."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Derin Bir Anlam",
+        "content": "Film hem görsel olarak büyüleyici hem de derin bir anlam içeriyor. Kesinlikle bir başyapıt."
+      },
+      {
+        "date": "09 11 2024",
+        "title": "Sonsuz Bir Yolculuk",
+        "content": "Zaman, uzay ve sevgi üzerine derin bir keşif. Film bitince düşündürmeye devam ediyor."
+      }
+    ],
+    "actors": [15, 16]
+  },
+  {
+    "id": 9,
+    "name": "The Silence of the Lambs",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXD5EzCfvxKSqbAfp8BlsWjDQumsX0S9rYVg&s",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "rate": "8.6",
+    "comments": [
+      {
+        "date": "12 11 2024",
+        "title": "İğrenç ve Etkileyici",
+        "content": "Çok korkunç ve etkileyici bir film. Anthony Hopkins harika bir performans sergiliyor."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Çığır Açıcı",
+        "content": "Gerilim ve psikoloji bir arada harika bir şekilde sunulmuş. Film izledikten sonra hala etkisinde kalıyorsunuz."
+      },
+      {
+        "date": "09 11 2024",
+        "title": "Korku Gerçek Oluyor",
+        "content": "Hopkins'in canlandırdığı Hannibal Lecter rolü sinemaya kazandırılmış en unutulmaz karakterlerden biri."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Güçlü Bir Hikaye",
+        "content": "Onur, intikam ve kahramanlık temaları mükemmel işlenmiş."
+      },
+      {
+        "date": "09 11 2024",
+        "title": "Efsanevi Savaş",
+        "content": "Filmdeki aksiyon çok başarılıydı. Roma'nın ihtişamını müthiş bir şekilde yansıtmışlar."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Efsane",
+        "content": "Bütün karakterler çok güçlüydü. Morgan Freeman'ın performansı unutulmaz."
+      },
+      {
+        "date": "05 11 2024",
+        "title": "İzlenmesi Gereken Film",
+        "content": "Yavaş başlasa da sonu inanılmaz. Film boyunca gerilimi hissettiniz."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Mükemmel",
+        "content": "Hikaye, karakterler ve sinematografi gerçekten olağanüstü. Her saniyesi değerli."
+      }
+    ],
+    "actors": [17, 18]
+  },
+  {
+    "id": 10,
+    "name": "Gladiator",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "year": 2000,
+    "director": "Ridley Scott",
+    "rate": "8.5",
+    "comments": [
+      {
+        "date": "11 11 2024",
+        "title": "Savaş ve Onur",
+        "content": "Russell Crowe'un performansı harika. Filmdeki savaş sahneleri çok iyi."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Güçlü Bir Hikaye",
+        "content": "Onur, intikam ve kahramanlık temaları mükemmel işlenmiş."
+      },
+      {
+        "date": "09 11 2024",
+        "title": "Efsanevi Savaş",
+        "content": "Filmdeki aksiyon çok başarılıydı. Roma'nın ihtişamını müthiş bir şekilde yansıtmışlar."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Efsane",
+        "content": "Bütün karakterler çok güçlüydü. Morgan Freeman'ın performansı unutulmaz."
+      },
+      {
+        "date": "05 11 2024",
+        "title": "İzlenmesi Gereken Film",
+        "content": "Yavaş başlasa da sonu inanılmaz. Film boyunca gerilimi hissettiniz."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Mükemmel",
+        "content": "Hikaye, karakterler ve sinematografi gerçekten olağanüstü. Her saniyesi değerli."
+      }
+    ],
+    "actors": [19, 20]
+  }
+]

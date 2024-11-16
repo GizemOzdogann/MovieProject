@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Tim Robbins",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [1],
+    "aboutActorContent": "Tim Robbins, Amerikalı aktör, yönetmen ve yapımcıdır. En çok 'The Shawshank Redemption' filmindeki Andy Dufresne rolüyle tanınır."
+  },
+  {
+    "id": 2,
+    "name": "Morgan Freeman",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [1],
+    "aboutActorContent": "Morgan Freeman, Amerikalı aktör, seslendirme sanatçısı ve yapımcıdır. En bilinen rolleri arasında 'The Shawshank Redemption' ve 'Million Dollar Baby' bulunur."
+  },
+  {
+    "id": 3,
+    "name": "Marlon Brando",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [2],
+    "aboutActorContent": "Marlon Brando, Amerikalı aktör ve film yapımcısıdır. 'The Godfather' filmindeki Vito Corleone rolüyle sinemanın en önemli figürlerinden biri olarak kabul edilir."
+  },
+  {
+    "id": 4,
+    "name": "Al Pacino",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [2],
+    "aboutActorContent": "Al Pacino, Amerikalı aktör ve yapımcıdır. 'The Godfather' serisi ile tanınan Pacino, sinemanın en büyük oyuncularından biridir."
+  },
+  {
+    "id": 5,
+    "name": "Christian Bale",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+    "filmIds": [3],
+    "aboutActorContent": "Christian Bale, İngiliz aktör ve yapımcıdır. En çok 'The Dark Knight' filmindeki Batman rolüyle tanınır."
+  },
+  {
+    "id": 6,
+    "name": "Heath Ledger",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "filmIds": [3],
+    "aboutActorContent": "Heath Ledger, Avustralyalı aktör ve yapımcıydı. 'The Dark Knight' filmindeki Joker rolüyle sinema tarihinin en unutulmaz karakterlerinden birini yaratmıştır."
+  },
+  {
+    "id": 7,
+    "name": "Liam Neeson",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA1MTQ3NzU1MV5BMl5BanBnXkFtZTgwMDE3Mjg0MzE@._V1_.jpg",
+    "filmIds": [4],
+    "aboutActorContent": "Liam Neeson, Kuzey İrlandalı aktör ve yapımcıdır. 'Schindler's List' ve 'Taken' gibi büyük yapımlarla tanınır."
+  },
+  {
+    "id": 8,
+    "name": "Ben Kingsley",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [4],
+    "aboutActorContent": "Ben Kingsley, İngiliz aktör ve yapımcıdır. 'Schindler's List' filmindeki rolüyle büyük takdir toplamıştır."
+  },
+  {
+    "id": 9,
+    "name": "Elijah Wood",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NDIxMzQ5OF5BMl5BanBnXkFtZTcwNzAyNTA4Nw@@._V1_.jpg",
+    "filmIds": [5],
+    "aboutActorContent": "Elijah Wood, Amerikalı aktör ve yapımcıdır. 'The Lord of the Rings' serisindeki Frodo Baggins rolüyle tanınır."
+  },
+  {
+    "id": 10,
+    "name": "Ian McKellen",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2MjgyNjk3MV5BMl5BanBnXkFtZTcwNTA3NTY5Mg@@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [5],
+    "aboutActorContent": "Ian McKellen, İngiliz aktör ve yapımcıdır. 'The Lord of the Rings' serisinde Gandalf rolüyle geniş bir hayran kitlesi edinmiştir."
+  },
+  {
+    "id": 11,
+    "name": "Tom Hanks",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [6],
+    "aboutActorContent": "Tom Hanks, Amerikalı aktör, yapımcı ve yönetmendir. 'Forrest Gump' ve 'Saving Private Ryan' gibi önemli filmlerdeki rolüyle tanınır."
+  },
+  {
+    "id": 12,
+    "name": "Robin Wright",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NTc4MzEyOV5BMl5BanBnXkFtZTcwODY0ODkzMQ@@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [6],
+    "aboutActorContent": "Robin Wright, Amerikalı aktris, yapımcı ve yönetmendir. 'Forrest Gump' filmindeki Jenny rolüyle geniş bir izleyici kitlesine sahiptir."
+  },
+  {
+    "id": 13,
+    "name": "Keanu Reeves",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDEzOTdhNDUtY2EyMy00YTNmLWE5MjItZmRjMmQzYTRlMGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [7],
+    "aboutActorContent": "Keanu Reeves, Kanadalı aktör ve yapımcıdır. 'The Matrix' filminde Neo rolüyle tanınır."
+  },
+  {
+    "id": 14,
+    "name": "Laurence Fishburne",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [7],
+    "aboutActorContent": "Laurence Fishburne, Amerikalı aktör ve yapımcıdır. 'The Matrix' filminde Morpheus rolüyle büyük başarı elde etmiştir."
+  },
+  {
+    "id": 15,
+    "name": "Matthew McConaughey",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [8],
+    "aboutActorContent": "Matthew McConaughey, Amerikalı aktör ve yapımcıdır. 'Interstellar' filmindeki Cooper rolüyle büyük beğeni kazanmıştır."
+  },
+  {
+    "id": 16,
+    "name": "Anne Hathaway",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzA0MWI3ZDgtMDVkZS00NTVhLTkwMzQtNmNlODk5MDYzMzFmXkEyXkFqcGc@._V1_.jpg",
+    "filmIds": [8],
+    "aboutActorContent": "Anne Hathaway, Amerikalı aktris ve yapımcıdır. 'Interstellar' filminde Dr. Brand rolüyle tanınır."
+  },
+  {
+    "id": 17,
+    "name": "Jodie Foster",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM3MjgyOTQwNF5BMl5BanBnXkFtZTcwMDczMzEwNA@@._V1_.jpg",
+    "filmIds": [9],
+    "aboutActorContent": "Jodie Foster, Amerikalı aktris, yönetmen ve yapımcıdır. 'The Silence of the Lambs' filmindeki Clarice Starling rolüyle büyük takdir toplamıştır."
+  },
+  {
+    "id": 18,
+    "name": "Anthony Hopkins",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [9],
+    "aboutActorContent": "Anthony Hopkins, Galli aktör, yönetmen ve yapımcıdır. 'The Silence of the Lambs' filmindeki Hannibal Lecter rolüyle sinema tarihinin en unutulmaz karakterlerinden birini yaratmıştır."
+  },
+  {
+    "id": 19,
+    "name": "Russell Crowe",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQyMTExNTMxOF5BMl5BanBnXkFtZTcwNDg1NzkzNw@@._V1_FMjpg_UX1000_.jpg",
+    "filmIds": [10],
+    "aboutActorContent": "Russell Crowe, Yeni Zelandalı aktör ve yapımcıdır. 'Gladiator' filmindeki Maximus rolüyle Oscar kazanmıştır."
+  },
+  {
+    "id": 20,
+    "name": "Joaquin Phoenix",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjFjNGYzYjEtNGE0Ny00M2IyLTk5ZmYtODE3ZGFkMzVjYmNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "filmIds": [10],
+    "aboutActorContent": "Joaquin Phoenix, Amerikalı aktör, yapımcı ve müzikçidir. 'Joker' filmindeki Arthur Fleck rolüyle Oscar kazandı."
+  }
+]
