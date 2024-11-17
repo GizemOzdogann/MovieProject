@@ -4,70 +4,70 @@
     "name": "Tim Robbins",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_FMjpg_UX1000_.jpg",
     "filmIds": [1],
-    "aboutActorContent": "Tim Robbins, Amerikalı aktör, yönetmen ve yapımcıdır. En çok 'The Shawshank Redemption' filmindeki Andy Dufresne rolüyle tanınır."
+    "aboutActorContent": "Tim Robbins, Amerikalı aktör, yönetmen ve yapımcıdır. En çok 'The Shawshank Redemption' filmindeki Andy Dufresne rolüyle tanınır. Robbins, kariyerine 1980'lerin başında başlamış ve dramatik rollerin yanı sıra komedi ve yönetmenlik alanlarında da kendini kanıtlamıştır."
   },
   {
     "id": 2,
     "name": "Morgan Freeman",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_FMjpg_UX1000_.jpg",
     "filmIds": [1],
-    "aboutActorContent": "Morgan Freeman, Amerikalı aktör, seslendirme sanatçısı ve yapımcıdır. En bilinen rolleri arasında 'The Shawshank Redemption' ve 'Million Dollar Baby' bulunur."
+    "aboutActorContent": "Morgan Freeman, Amerikalı aktör, seslendirme sanatçısı ve yapımcıdır. En bilinen rolleri arasında 'The Shawshank Redemption', 'Million Dollar Baby' ve 'Driving Miss Daisy' bulunur. Freeman, derin sesiyle de tanınır ve Oscar ödülü kazanmıştır."
   },
   {
     "id": 3,
     "name": "Marlon Brando",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_FMjpg_UX1000_.jpg",
     "filmIds": [2],
-    "aboutActorContent": "Marlon Brando, Amerikalı aktör ve film yapımcısıdır. 'The Godfather' filmindeki Vito Corleone rolüyle sinemanın en önemli figürlerinden biri olarak kabul edilir."
+    "aboutActorContent": "Marlon Brando, Amerikalı aktör ve film yapımcısıdır. 'The Godfather' filmindeki Vito Corleone rolüyle sinemanın en önemli figürlerinden biri olarak kabul edilir. Brando, Method acting akımının önde gelen isimlerinden biridir."
   },
   {
     "id": 4,
     "name": "Al Pacino",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_FMjpg_UX1000_.jpg",
     "filmIds": [2],
-    "aboutActorContent": "Al Pacino, Amerikalı aktör ve yapımcıdır. 'The Godfather' serisi ile tanınan Pacino, sinemanın en büyük oyuncularından biridir."
+    "aboutActorContent": "Al Pacino, Amerikalı aktör ve yapımcıdır. 'The Godfather' serisi ile tanınan Pacino, sinemanın en büyük oyuncularından biridir. Ayrıca 'Scarface', 'Dog Day Afternoon' gibi kült filmlerde de unutulmaz performanslar sergilemiştir."
   },
   {
     "id": 5,
     "name": "Christian Bale",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
-    "filmIds": [3],
-    "aboutActorContent": "Christian Bale, İngiliz aktör ve yapımcıdır. En çok 'The Dark Knight' filmindeki Batman rolüyle tanınır."
+    "filmIds": [3, 12],
+    "aboutActorContent": "Christian Bale, İngiliz aktör ve yapımcıdır. En çok 'The Dark Knight' filmindeki Batman rolüyle tanınır. Bale, rolüne derinlik katmak için fiziksel ve psikolojik olarak büyük değişiklikler yapmasıyla ünlüdür."
   },
   {
     "id": 6,
     "name": "Heath Ledger",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI2NTY0NzA4MF5BMl5BanBnXkFtZTYwMjE1MDE0._V1_QL75_UX140_CR0,1,140,207_.jpg",
     "filmIds": [3],
-    "aboutActorContent": "Heath Ledger, Avustralyalı aktör ve yapımcıydı. 'The Dark Knight' filmindeki Joker rolüyle sinema tarihinin en unutulmaz karakterlerinden birini yaratmıştır."
+    "aboutActorContent": "Heath Ledger, Avustralyalı aktör ve yapımcıydı. 'The Dark Knight' filmindeki Joker rolüyle sinema tarihinin en unutulmaz karakterlerinden birini yaratmıştır. Ledger, Oscar ödülünü ölümünden sonra kazandı."
   },
   {
     "id": 7,
     "name": "Liam Neeson",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA1MTQ3NzU1MV5BMl5BanBnXkFtZTgwMDE3Mjg0MzE@._V1_.jpg",
     "filmIds": [4],
-    "aboutActorContent": "Liam Neeson, Kuzey İrlandalı aktör ve yapımcıdır. 'Schindler's List' ve 'Taken' gibi büyük yapımlarla tanınır."
+    "aboutActorContent": "Liam Neeson, Kuzey İrlandalı aktör ve yapımcıdır. 'Schindler's List' ve 'Taken' gibi büyük yapımlarla tanınır. Neeson, aksiyon ve dram türlerindeki güçlü performansları ile dikkat çeker."
   },
   {
     "id": 8,
     "name": "Ben Kingsley",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_FMjpg_UX1000_.jpg",
     "filmIds": [4],
-    "aboutActorContent": "Ben Kingsley, İngiliz aktör ve yapımcıdır. 'Schindler's List' filmindeki rolüyle büyük takdir toplamıştır."
+    "aboutActorContent": "Ben Kingsley, İngiliz aktör ve yapımcıdır. 'Schindler's List' filmindeki rolüyle büyük takdir toplamıştır. Ayrıca 'Gandhi' filmindeki başrolü ile Oscar kazanmıştır."
   },
   {
     "id": 9,
     "name": "Elijah Wood",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NDIxMzQ5OF5BMl5BanBnXkFtZTcwNzAyNTA4Nw@@._V1_.jpg",
     "filmIds": [5],
-    "aboutActorContent": "Elijah Wood, Amerikalı aktör ve yapımcıdır. 'The Lord of the Rings' serisindeki Frodo Baggins rolüyle tanınır."
+    "aboutActorContent": "Elijah Wood, Amerikalı aktör ve yapımcıdır. 'The Lord of the Rings' serisindeki Frodo Baggins rolüyle tanınır. Wood, genç yaşta büyük bir başarıya imza atmış ve sonrasında bağımsız filmlerde de kendini kanıtlamıştır."
   },
   {
     "id": 10,
     "name": "Ian McKellen",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2MjgyNjk3MV5BMl5BanBnXkFtZTcwNTA3NTY5Mg@@._V1_FMjpg_UX1000_.jpg",
     "filmIds": [5],
-    "aboutActorContent": "Ian McKellen, İngiliz aktör ve yapımcıdır. 'The Lord of the Rings' serisinde Gandalf rolüyle geniş bir hayran kitlesi edinmiştir."
+    "aboutActorContent": "Ian McKellen, İngiliz aktör ve yapımcıdır. 'The Lord of the Rings' serisinde Gandalf rolüyle geniş bir hayran kitlesi edinmiştir. McKellen, sahne tiyatrosundaki etkileyici kariyerinin yanı sıra Hollywood'da da büyük başarılar elde etmiştir."
   },
   {
     "id": 11,
@@ -87,8 +87,8 @@
     "id": 13,
     "name": "Keanu Reeves",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDEzOTdhNDUtY2EyMy00YTNmLWE5MjItZmRjMmQzYTRlMGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "filmIds": [7],
-    "aboutActorContent": "Keanu Reeves, Kanadalı aktör ve yapımcıdır. 'The Matrix' filminde Neo rolüyle tanınır."
+    "filmIds": [7, 15],
+    "aboutActorContent": "Keanu Reeves, Kanadalı aktör ve yapımcıdır. 'The Matrix' filminde Neo rolüyle tanınır. "
   },
   {
     "id": 14,
@@ -137,6 +137,76 @@
     "name": "Joaquin Phoenix",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjFjNGYzYjEtNGE0Ny00M2IyLTk5ZmYtODE3ZGFkMzVjYmNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
     "filmIds": [10],
-    "aboutActorContent": "Joaquin Phoenix, Amerikalı aktör, yapımcı ve müzikçidir. 'Joker' filmindeki Arthur Fleck rolüyle Oscar kazandı."
+    "aboutActorContent": "Joaquin Phoenix, Amerikalı aktör ve yapımcıdır. 'Joker' filmindeki Arthur Fleck rolüyle büyük bir çıkış yakalamış ve 2020'de En İyi Erkek Oyuncu Oscar'ını kazanmıştır. Phoenix, karmaşık karakterleri ve derinlemesine performanslarıyla tanınır. 'Gladiator', 'Walk the Line' ve 'The Master' gibi filmlerdeki rolleri de büyük takdir toplamıştır."
+  },
+  {
+    "id": 21,
+    "name": "William Dafoe",
+    "imageUrl": "https://images.mubicdn.net/images/cast_member/822/cache-680-1546796690/image-w856.jpg",
+    "filmIds": [11],
+    "aboutActorContent": "William Dafoe, Amerikalı aktör, yapımcı ve yönetmendir. Dafoe, derinlikli karakter rolleriyle tanınır ve 'Platoon' ile 'The Florida Project' gibi filmlerdeki performansları ile geniş bir izleyici kitlesi kazanmıştır. En bilinen karakterlerinden biri, 'Spider-Man' (2002) filminde canlandırdığı Norman Osborn'dur."
+  },
+  {
+    "id": 22,
+    "name": "Jared Leto",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXd8km5Lt3xRcYqiasKP_yDtfjzn8F-KPGg&s",
+    "filmIds": [11, 14],
+    "aboutActorContent": "Jared Leto, Amerikalı aktör, şarkıcı ve yapımcıdır. Leto, 'Dallas Buyers Club' filmindeki rolüyle En İyi Yardımcı Erkek Oyuncu Oscar'ını kazandı. Ayrıca, 'Suicide Squad' filmindeki Joker rolüyle de dikkat çekti. Leto, 30 Seconds to Mars adlı rock grubunun baş vokalistidir."
+  },
+  {
+    "id": 23,
+    "name": "Margot Robbie",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexv_eEX8gR8l2WqDkkrZeSR_Jh7NU1oVuFA&s",
+    "filmIds": [13, 12, 14, 16],
+    "aboutActorContent": "Margot Robbie, Avustralyalı aktris ve yapımcıdır. Robbie, 'The Wolf of Wall Street' filmindeki rolüyle tanınmaya başladı. 'Suicide Squad' filminde Harley Quinn karakterini canlandırarak dünya çapında ünlendi. Robbie'nin yapımcı olarak da 'I, Tonya' ve 'Promising Young Woman' gibi projelere imza atmıştır."
+  },
+  {
+    "id": 24,
+    "name": "Ryan Gosling",
+    "imageUrl": "https://cdn.britannica.com/93/215393-050-E428CADE/Canadian-actor-musician-Ryan-Gosling-2016.jpg",
+    "filmIds": [13],
+    "aboutActorContent": "Ryan Gosling, Kanadalı aktör, yapımcı ve müzikçidir. Gosling, 'La La Land' filmindeki müzikal performansıyla geniş bir takdir topladı ve En İyi Erkek Oyuncu dalında Oscar'a aday gösterildi. 'Drive' ve 'Blade Runner 2049' gibi filmlerdeki başarılı performanslarıyla da tanınır."
+  },
+  {
+    "id": 25,
+    "name": "Will Smith",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vZRuFt9Ez1mBw5kYnpG7r1iCW5_Yv_CYZw&s",
+    "filmIds": [13],
+    "aboutActorContent": "Will Smith, Amerikalı aktör, yapımcı ve şarkıcıdır. 'Men in Black' ve 'The Pursuit of Happyness' gibi filmlerle tanınan Smith, hem aksiyon hem de dram türlerindeki başarısıyla dikkat çekmiştir. Ayrıca, 2002'de En İyi Erkek Oyuncu Oscar'ına aday gösterilmiştir ve 'King Richard' ile Oscar kazanmıştır."
+  },
+  {
+    "id": 26,
+    "name": "John David Washington",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQwdu1Ea_-hHZPW_uInvyd1dAP1twcTihpQ&s",
+    "filmIds": [12],
+    "aboutActorContent": "John David Washington, Amerikalı aktör ve eski futbolcudur. Washington, ailesinin ünlü oyuncu kökenlerinden dolayı Hollywood'da hızla kendine bir yer edindi."
+  },
+  {
+    "id": 27,
+    "name": "Ian McShane",
+    "imageUrl": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/84420_v9_bb.jpg",
+    "filmIds": [15],
+    "aboutActorContent": "Ian McShane, İngiliz aktör ve yapımcıdır. McShane, 'Deadwood' dizisindeki Al Swearengen rolüyle büyük bir çıkış yaptı ve 'John Wick' serisindeki Winston karakteriyle de tanınmaktadır. McShane'in geniş bir film ve televizyon kariyeri vardır ve birçok ödül kazanmıştır."
+  },
+  {
+    "id": 28,
+    "name": "Leonardo DiCaprio",
+    "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2014/11/leonardo_dicaprio.jpg?w=1440&h=810&crop=1",
+    "filmIds": [16, 17, 18],
+    "aboutActorContent": "Leonardo DiCaprio, Amerikalı aktör, yapımcı ve çevre aktivistidir. 'Titanic' ile dünya çapında tanınan DiCaprio, 'The Wolf of Wall Street', 'Inception' ve 'Once Upon a Time in Hollywood' gibi yapımlarda gösterdiği performanslarla birçok ödül kazanmıştır. Çevre koruma alanındaki katkılarıyla da tanınmaktadır."
+  },
+  {
+    "id": 29,
+    "name": "Emma Stone",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu24bOLD41AviSF1X8p7DFa2YkKeWRhHtaQnffD9FeOg-fxrq3",
+    "filmIds": [19],
+    "aboutActorContent": "Emma Stone, Amerikalı aktris ve yapımcıdır. 'La La Land' filmindeki muazzam performansıyla En İyi Kadın Oyuncu Oscar'ını kazanmıştır. 'The Help', 'Birdman' ve 'Easy A' gibi yapımlarda da dikkat çekmiştir. Geniş yelpazede farklı türlerdeki rollerle tanınır ve birçok ödül kazanmıştır."
+  },
+  {
+    "id": 30,
+    "name": "Cillian Murphy",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_aS17eYLGtWhIwxOSxr1sBhKiIlqnPQT1w&s",
+    "filmIds": [18, 20],
+    "aboutActorContent": "Cillian Murphy İrlandalı bir aktördür. Eserleri hem sahne hem de ekranı kapsar ve ödülleri arasında bir Akademi Ödülü, bir İngiliz Akademisi Film Ödülü ve bir Altın Küre Ödülü bulunur."
   }
 ]

@@ -23,21 +23,21 @@ const actorList = movie.actors.map((actorId) => {
         <p><strong>Puan:</strong> {{ movie.rate }}</p>
       </div>
     </div>
-    <div class="movie-comments">
-      <h2>Yorumlar</h2>
-      <div v-for="(comment, index) in movie.comments" :key="index" class="comment">
-        <p>
-          <strong>{{ comment.title }}</strong> (<span>{{ comment.date }}</span
-          >)
-        </p>
-        <p>{{ comment.content }}</p>
-      </div>
-    </div>
     <div class="movie-actors">
       <h2>Aktörler</h2>
       <GridComponent>
         <ActorCardItem v-for="(actor, index) in actorList" :key="index" :actor="actor" />
       </GridComponent>
+    </div>
+  </div>
+  <div class="movie-comments">
+    <h2>Yorumlar</h2>
+    <div v-for="(comment, index) in movie.comments" :key="index" class="comment">
+      <p>
+        <strong>{{ comment.title }}</strong> (<span>{{ comment.date }}</span
+        >)
+      </p>
+      <p>{{ comment.content }}</p>
     </div>
   </div>
 </template>

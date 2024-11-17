@@ -328,5 +328,325 @@
       }
     ],
     "actors": [19, 20]
+  },
+  {
+    "id": 11,
+    "name": "American Psycho",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDiz4S4npGwjhs_PDw9ot9SIiS7rMw8yrXA&s",
+    "year": 2000,
+    "director": "Mary Harron",
+    "rate": "7.6",
+    "comments": [
+      {
+        "date": "12 11 2024",
+        "title": "Disturbing Yet Brilliant",
+        "content": "Christian Bale's chilling performance as Patrick Bateman is unforgettable."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "A Unique Classic",
+        "content": "Dark, satirical, and thought-provoking. A movie that stays with you."
+      }
+    ],
+    "actors": [5, 21, 22]
+  },
+  {
+    "id": 12,
+    "name": "Amsterdam",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDYxMWE0YjEtMzQ1Mi00MGI2LWFjYzAtYzk4ZTgwMDY0MDBlXkEyXkFqcGc@._V1_.jpg",
+    "year": 2022,
+    "director": "David O. Russell",
+    "rate": "6.1",
+    "comments": [
+      {
+        "date": "14 11 2024",
+        "title": "Beklentilerin Altında",
+        "content": "Oyuncu kadrosu etkileyici ama hikaye biraz dağınık geldi."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Eğlenceli Anlar",
+        "content": "Zaman zaman keyifli anlar yaşatsa da genel olarak biraz karışık bir film."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Görsellik Harika",
+        "content": "Sanat yönetimi ve görsel tasarım mükemmel olsa da, hikaye beklentilerimi karşılamadı."
+      },
+      {
+        "date": "14 11 2024",
+        "title": "Sanatsal ve Sıradışı",
+        "content": "David O. Russell'ın yönetmenliği gerçekten kendine has bir dokunuş katıyor. Film çok farklı bir atmosfer sunuyor."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Dönem Filmi Severler İçin",
+        "content": "1930'ların dönem havasını harika yansıtmış. Kostümler ve set tasarımları büyüleyiciydi."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Karmaşık ama İlginç",
+        "content": "Hikaye bazen kafa karıştırıcı olsa da sonunda her şey yerine oturuyor. Sabırlı izleyiciler için mükemmel."
+      }
+    ],
+    "actors": [5, 23, 26]
+  },
+  {
+    "id": 13,
+    "name": "Barbie",
+    "imageUrl": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/img_2705_3.jpeg",
+    "year": 2023,
+    "director": "Greta Gerwig",
+    "rate": "7.2",
+    "comments": [
+      {
+        "date": "15 11 2024",
+        "title": "Renkli ve Eğlenceli",
+        "content": "Harika bir görsel şölen. Hikayesi beklediğimden daha derin çıktı."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Toplumsal Mesajlar",
+        "content": "Eğlenceli bir film olmasının yanında ciddi mesajlar içeriyor."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Margot Robbie'nin Performansı",
+        "content": "Margot Robbie yine büyüledi. Hem komedi hem de drama bir arada."
+      }
+    ],
+    "actors": [23, 24]
+  },
+  {
+    "id": 14,
+    "name": "Suicide Squad",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/500x659/products/2898961/5965027/MOVAB66165__13426.1679607456.jpg?c=2",
+    "year": 2016,
+    "director": "David Ayer",
+    "rate": "6.0",
+    "comments": [
+      {
+        "date": "15 11 2024",
+        "title": "Karmaşık Ama Eğlenceli",
+        "content": "Hikaye biraz dağınık olsa da karakterler filmi taşımış."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Harley Quinn Mükemmel",
+        "content": "Margot Robbie'nin Harley Quinn performansı harikaydı!"
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Aksiyon Dolu",
+        "content": "Bol aksiyon ve çılgın sahnelerle dolu, ama daha iyi olabilirdi."
+      }
+    ],
+    "actors": [23, 22, 25]
+  },
+  {
+    "id": 15,
+    "name": "John Wick",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+    "year": 2014,
+    "director": "Chad Stahelski",
+    "rate": "7.4",
+    "comments": [
+      {
+        "date": "16 11 2024",
+        "title": "Kesintisiz Aksiyon",
+        "content": "Aksiyon sahneleri mükemmel ve Keanu Reeves harika bir iş çıkarmış."
+      },
+      {
+        "date": "14 11 2024",
+        "title": "Modern Bir Aksiyon Klasiği",
+        "content": "John Wick serisinin başlangıcı olarak etkileyici bir film. Hikaye basit ama sürükleyici."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Karakter Odaklı Aksiyon",
+        "content": "Hem dramatik hem de şiddetli sahneler çok iyi dengelenmiş."
+      },
+      {
+        "date": "08 11 2024",
+        "title": "Efsane Bir Başlangıç",
+        "content": "Bu filmle başlayan John Wick evreni, aksiyon filmleri için çıtayı yükseltti."
+      },
+      {
+        "date": "06 11 2024",
+        "title": "Keanu'nun Dönüşü",
+        "content": "Keanu Reeves'in kariyerinde yeni bir zirve. Performansı çok güçlüydü."
+      },
+      {
+        "date": "04 11 2024",
+        "title": "Basit Ama Etkili",
+        "content": "Hikayesi basit olsa da anlatımı ve aksiyonu etkileyiciydi."
+      },
+      {
+        "date": "02 11 2024",
+        "title": "Görsel Şölen",
+        "content": "Görüntü yönetmenliği ve atmosferi, filmi çok daha etkileyici kılıyor."
+      }
+    ],
+    "actors": [13, 14, 27]
+  },
+  {
+    "id": 16,
+    "name": "The Wolf of Wall Street",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrm6HGLgXSS2jHhlYqwXBwGu-7PDK8Y_RJ_DJhH5mdB6CyJyX6hYthJ5r4IYWhVHQ0V5yEzhw7m6Ua5f7ClbLYgI98fXsxVaAft2u41Os",
+    "year": 2013,
+    "director": "Martin Scorsese",
+    "rate": "8.2",
+    "comments": [
+      {
+        "date": "15 11 2024",
+        "title": "Muhteşem Performanslar",
+        "content": "Leonardo DiCaprio'nun performansı gerçekten takdire şayan. Filmdeki enerjiyi çok iyi yansıtmış."
+      },
+      {
+        "date": "14 11 2024",
+        "title": "Komik Ama Sert",
+        "content": "Filmdeki kara mizah ve güçlü dramatik anlar harika bir denge oluşturmuş. Ama oldukça sert bir anlatım var."
+      },
+      {
+        "date": "13 11 2024",
+        "title": "Görsel ve Hızlı",
+        "content": "Scorsese'nin yönetmenliğiyle film oldukça hızlı tempolu ve görsel olarak etkileyici."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Aşk-Hırslı Bir Masal",
+        "content": "Bir insanın hırsla ne kadar ileri gidebileceğini gösteren, güçlü bir film."
+      },
+      {
+        "date": "11 11 2024",
+        "title": "Sonsuz Enerji",
+        "content": "Filmdeki enerji hiç düşmüyor. Her sahne, her diyalog izleyiciyi ekrana kilitliyor."
+      }
+    ],
+    "actors": [23, 28]
+  },
+  {
+    "id": 17,
+    "name": "Titanic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+    "year": 1997,
+    "director": "James Cameron",
+    "rate": "7.8",
+    "comments": [
+      {
+        "date": "10 11 2024",
+        "title": "Efsanevi Bir Aşk Hikayesi",
+        "content": "Titanic, görsel açıdan etkileyici olduğu kadar, derin bir aşk hikayesi de sunuyor. Bütün zamanların en iyi dramalarından biri."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Tarihi ve Romantik Bir Film",
+        "content": "Büyük gemi felaketi ve Jack ile Rose arasındaki unutulmaz aşk, filmin kalbini oluşturuyor."
+      },
+      {
+        "date": "14 11 2024",
+        "title": "Çığır Açan Yapım",
+        "content": "Titanic, sinemada devrim yarattı. Hem etkileyici bir aşk hikayesi hem de tarihi bir drama."
+      }
+    ],
+    "actors": [28]
+  },
+  {
+    "id": 18,
+    "name": "Inception",
+    "imageUrl": "https://play-lh.googleusercontent.com/kSeBtvMBvS9P9jSwP-bVNmrH8yANJeKZrbxUIiw6zSOpRibxBn1IP7PEHrDeoIz0AmQPddbRPMEgh8KL8ohd",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "rate": "8.8",
+    "comments": [
+      {
+        "date": "12 11 2024",
+        "title": "Zihinsel Bir Yolculuk",
+        "content": "Inception, katmanlı bir şekilde düşündüren ve şaşırtıcı twist'lerle dolu bir film. Nolan'ın en iyi yapımlarından biri."
+      },
+      {
+        "date": "14 11 2024",
+        "title": "Mükemmel Bir Fikir",
+        "content": "Filmin hikayesi derin ve karmaşık. İzlerken zihinsel bir yolculuğa çıkıyorsunuz."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Zihninizi Büküyor",
+        "content": "Inception, bir filmden beklenenden çok daha fazlasını sunuyor. Gerçeklik ve hayallerin iç içe geçtiği inanılmaz bir yapım."
+      }
+    ],
+    "actors": [28, 30]
+  },
+  {
+    "id": 19,
+    "name": "La La Land",
+    "imageUrl": "https://musicart.xboxlive.com/7/53df5a00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080 ",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "rate": "8.0",
+    "comments": [
+      {
+        "date": "15 11 2024",
+        "title": "Bir Baş Yapıt",
+        "content": "La La Land, görselliği, müzikleri ve oyunculuklarıyla gerçekten başyapıt. Emma Stone ve Ryan Gosling'in performansları olağanüstü."
+      },
+      {
+        "date": "13 11 2024",
+        "title": "Müzikal Aşkı",
+        "content": "Müzikal türünde harika bir iş çıkarmış. Müzikleri ve dansları ile hem romantizmi hem de melankoliyi mükemmel bir şekilde harmanlıyor."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Hayalleri ve Gerçekliği",
+        "content": "Film, hayallerin peşinden gitmenin güzel ve acı yanlarını başarıyla anlatıyor. Sonu, duygusal bir ağırlık taşıyor ama oldukça etkileyici."
+      },
+      {
+        "date": "11 11 2024",
+        "title": "Renkli ve Canlı",
+        "content": "Renk paleti ve sinematografi muazzam. Damien Chazelle, her sahnede görsel bir şölen yaratmayı başarıyor."
+      },
+      {
+        "date": "10 11 2024",
+        "title": "Büyüleyici Bir Deneyim",
+        "content": "La La Land sadece bir film değil, bir deneyim. Müzikal parçaları akılda kalıcı ve yönetmenlik gerçekten etkileyici."
+      }
+    ],
+    "actors": [24, 29]
+  },
+  {
+    "id": 20,
+    "name": "Oppenheimer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/7/7f/Oppenheimer_%28film%29_afiş.jpg",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "rate": "8.9",
+    "comments": [
+      {
+        "date": "16 11 2024",
+        "title": "Bir Zeka ve Drama Şaheseri",
+        "content": "Oppenheimer, Christopher Nolan'ın zekice yönetimiyle ve Cillian Murphy'nin unutulmaz performansıyla tarihsel bir drama olarak kusursuz bir şekilde işlenmiş."
+      },
+      {
+        "date": "15 11 2024",
+        "title": "Tarih ve İnsanlık",
+        "content": "Film, atom bombasının yaratılmasının arkasındaki insani ve bilimsel ikilemleri mükemmel şekilde yansıtıyor. Film, tarihsel bir dönemi anlamamıza yardımcı olurken, karakter gelişimine de odaklanıyor."
+      },
+      {
+        "date": "14 11 2024",
+        "title": "Görsel ve Duygusal Derinlik",
+        "content": "Oppenheimer sadece görsel açıdan muazzam değil, aynı zamanda insan psikolojisiyle de derin bir bağ kuruyor. Her sahne dikkatlice düşünülmüş ve mükemmel bir sinematik deneyim sunuyor."
+      },
+      {
+        "date": "13 11 2024",
+        "title": "Sürükleyici ve Etkileyici",
+        "content": "Oppenheimer'in hem bilimsel hem de felsefi yönleri çok iyi işlenmiş. İzlerken zamanın nasıl geçtiğini anlamıyorsunuz, her anı dikkatle izlemeye değer."
+      },
+      {
+        "date": "12 11 2024",
+        "title": "Büyük Bir Başarı",
+        "content": "Oppenheimer, tarihin en önemli figürlerinden birinin hayatını anlatırken aynı zamanda bir yönetmen olarak Nolan'ın ne kadar usta olduğunu bir kez daha gösteriyor."
+      }
+    ],
+    "actors": [30]
   }
 ]

@@ -8,7 +8,10 @@ const goToHome = () => {
 
 <template>
   <div class="header-section">
-    <div class="header-logo" @click="goToHome"><img src="/logo.png" alt="Flix logo" /> MOVIES</div>
+    <div class="header-logo" @click="goToHome">
+      <img src="/movie-icon.png" alt="Flix logo" />
+      <span class="movie-world">MovieWorld</span>
+    </div>
     <div class="header-nickname">Gizem Oz</div>
   </div>
 </template>
@@ -28,14 +31,23 @@ const goToHome = () => {
   cursor: pointer;
 }
 
+.movie-world {
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  font-weight: medium;
+  color: #dfe8ed;
+  margin-left: 1 px;
+  text-transform: uppercase;
+}
+
 .header-logo img {
-  width: 80px; /* You can adjust the size of the logo */
+  width: 70px; /* You can adjust the size of the logo */
   height: auto;
-  margin-right: 10px;
+  margin-right: 1px;
 }
 
 .header-nickname {
   font-size: 18px;
-  color: #ecf0f1;
+  color: #787f81;
 }
 </style>
