@@ -21,6 +21,7 @@ const actorList = movie.actors.map((actorId) => {
         <h1>{{ movie.name }} ({{ movie.year }})</h1>
         <p><strong>Yönetmen:</strong> {{ movie.director }}</p>
         <p><strong>Puan:</strong> {{ movie.rate }}</p>
+        <p><strong>Açıklama:</strong> {{ movie.description }}</p>
       </div>
     </div>
     <div class="movie-actors">

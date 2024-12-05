@@ -6,6 +6,7 @@
     "year": 1994,
     "director": "Frank Darabont",
     "rate": "9.3",
+    "description": "Andy Dufresne adlı genç ve başarılı bir bankacı, karısını ve sevgilisini öldürmekle suçlanarak ömür boyu hapse mahkûm edilir. Ancak Andy, masum olduğunu savunmaktadır. Maine’deki Shawshank Hapishanesi'ne gönderilir ve burada mahkûmlar, gardiyanlar ve sert bir hapishane düzeniyle yüzleşir.",
     "comments": [
       {
         "date": "12 11 2024",
@@ -42,6 +43,7 @@
     "year": 1972,
     "director": "Francis Ford Coppola",
     "rate": "9.2",
+    "description": "Don Vito Corleone New York'taki suç imparatorluğunun lideridir. Ailesi, yasal olmayan işlerde büyük bir güç sahibidir. Bir gün Don Vito, yeni uyuşturucu ticareti işine girmeyi reddeder ve bu, onu rakipler ve hırsızlar tarafından hedef haline getirir. Don Vito'nun en büyük oğlu Michael (Al Pacino), başlangıçta ailesinin işlerinden uzak durmaya çalışırken, babasına yapılan suikast girişiminin ardından ailesini koruma görevini üstlenir.",
     "comments": [
       {
         "date": "12 11 2024",
@@ -73,6 +75,7 @@
     "year": 2008,
     "director": "Christopher Nolan",
     "rate": "9.0",
+    "description": "Gotham Şehri, suçla mücadele eden Batman tarafından korunmaktadır. Ancak, şehirdeki suç oranı azalsa da, yeni bir tehdit ortaya çıkar: Joker, kaos yaratmak için Gotham'ın düzenini altüst etmeyi amaçlar.",
     "comments": [
       {
         "date": "11 11 2024",
@@ -94,6 +97,7 @@
     "year": 1993,
     "director": "Steven Spielberg",
     "rate": "9.0",
+    "description": "Film, işadamı Oskar Schindler (Liam Neeson) ve onun, Polonya'da Naziler tarafından işkence edilen ve öldürülen Yahudi halkını kurtarma çabalarını anlatır. Schindler, başlangıçta sadece kar elde etmek amacıyla savaş döneminde Yahudi işçilerini kullanır. Ancak zamanla, savaşın vahşetini gördükçe, vicdanı onu harekete geçirir.",
     "comments": [
       {
         "date": "10 11 2024",
@@ -120,6 +124,7 @@
     "year": 2003,
     "director": "Peter Jackson",
     "rate": "8.9",
+    "description": "Film, genç hobbit Frodo Baggins'in elinde bulduğu, kötü güçlerin hükmettiği kara yüzüğü yok etme görevini üstlenmesini konu alır. Bu yüzük, Sauron adlı karanlık bir varlık tarafından yapılmış ve onun gücünü artırmak için kullanılacaktır. Frodo, yüzüğü yok etmek için tek bir yol olduğunun farkına varır: Yüzüğü, Orta Dünya'nın en tehlikeli yeri olan Mordor'daki ateş çukuruna atmak.",
     "comments": [
       {
         "date": "11 11 2024",
@@ -146,6 +151,7 @@
     "year": 1994,
     "director": "Robert Zemeckis",
     "rate": "8.8",
+    "description": "Forrest, düşük IQ'lu bir adamdır, ancak saf ve iyi niyetli bir kalbe sahiptir. Hayatı boyunca, farkında olmadan önemli tarihi olaylara ve dönüm noktalarına tanıklık eder.",
     "comments": [
       {
         "date": "12 11 2024",
@@ -192,6 +198,7 @@
     "year": 1999,
     "director": "The Wachowskis",
     "rate": "8.7",
+    "description": "Thomas Anderson (Keanu Reeves), gündüzleri bilgisayar programcısı, geceleri ise Neo adında bilgisayar korsanıdır. Bir gün, Neo, Matrix adlı bir sanal gerçekliğin içinde yaşadığını keşfeder. Gerçek dünya, makineler tarafından işgal edilmiştir ve insanlar, bilinçlerini bu sanal dünyada tutsak halde yaşarlar.",
     "comments": [
       {
         "date": "12 11 2024",
@@ -218,6 +225,7 @@
     "year": 2014,
     "director": "Christopher Nolan",
     "rate": "8.6",
+    "description": "Dünya, çevresel çöküş ve yiyecek kıtlığı nedeniyle yaşanılmaz hale gelir. Eski bir NASA pilotu olan Cooper (Matthew McConaughey), bir grup bilim insanı ile uzayda keşif yapmak üzere bir göreve çıkar. Amacı, insanları kurtaracak yeni bir gezegen bulmaktır. Film, insanlık için hayatta kalma mücadelesini ve zamanın göreceliliğini keşfederken, duygusal bir baba-kız ilişkisini de derinlemesine işler.",
     "comments": [
       {
         "date": "11 11 2024",
@@ -244,6 +252,7 @@
     "year": 1991,
     "director": "Jonathan Demme",
     "rate": "8.6",
+    "description": "Clarice Starling (Jodie Foster), FBI için çalışan bir ajandır ve genç bir seri katil olan Buffalo Bill'i yakalamakla görevlendirilir. Ancak, Buffalo Bill'in yakalanabilmesi için, daha önce hapiste olan ve zeki bir seri katil olan Hannibal Lecter (Anthony Hopkins) ile görüşmesi gerekmektedir. Lecter, Starling'e yardım etmeyi kabul eder, ancak bu süreç, onun zekice oyunları ve manipülasyonlarıyla karmaşıklaşır.",
     "comments": [
       {
         "date": "12 11 2024",
@@ -295,6 +304,7 @@
     "year": 2000,
     "director": "Ridley Scott",
     "rate": "8.5",
+    "description": "Gladiator, Roma İmparatorluğu'nda geçen bir intikam hikayesini anlatır. General Maximus, imparatorun haince öldürülmesinin ardından köle olarak satılır ve arenada gladyatör olarak mücadele etmek zorunda kalır. Film, adalet, onur ve intikam gibi temalar etrafında döner.",
     "comments": [
       {
         "date": "11 11 2024",
@@ -336,6 +346,7 @@
     "year": 2000,
     "director": "Mary Harron",
     "rate": "7.6",
+    "description": "American Psycho, Patrick Bateman adlı zengin bir New Yorklu'nun zihinsel çöküşünü ve toplumsal normlara karşı duyduğu tiksintiyi keşfeder. Film, 1980'ler tüketim kültürünü ve psikolojik çöküşü derinlemesine ele alır.",
     "comments": [
       {
         "date": "12 11 2024",
@@ -357,6 +368,7 @@
     "year": 2022,
     "director": "David O. Russell",
     "rate": "6.1",
+    "description": "Amsterdam, 1930'lar New York'unda üç arkadaşın bir cinayet soruşturması üzerine maceraya atılmalarını konu alır. Film, tarihsel olaylarla harmanlanmış absürd komedi unsurlarını ve sürükleyici karakter ilişkilerini işler.",
     "comments": [
       {
         "date": "14 11 2024",
@@ -398,6 +410,7 @@
     "year": 2023,
     "director": "Greta Gerwig",
     "rate": "7.2",
+    "description": "Barbie, Barbie'nin gerçek dünyaya adım atmaya karar vermesiyle başlayan, kimlik arayışını ve toplumsal beklentilerle mücadelesini konu alan bir hikaye sunar. Film, eğlenceli ve renkli bir dünyada derin mesajlar verir.",
     "comments": [
       {
         "date": "15 11 2024",
@@ -424,6 +437,7 @@
     "year": 2016,
     "director": "David Ayer",
     "rate": "6.0",
+    "description": "Suicide Squad, suçlu mahkumlardan oluşan bir grup anti-kahramanın, hükümetin zor bir görevi başarıyla tamamlamak için bir araya gelmesini konu alır. Film, mizahi ve aksiyon dolu sahneleriyle bilinen, kaotik bir grup dinamiği sunar.",
     "comments": [
       {
         "date": "15 11 2024",
@@ -450,6 +464,7 @@
     "year": 2014,
     "director": "Chad Stahelski",
     "rate": "7.4",
+    "description": "John Wick, eski bir tetikçi olan John’un, sevdiklerinin öldürülmesinin ardından intikam almak için verdiği mücadeleyi anlatır. Film, aksiyon sahneleri ve stilize edilmiş şiddetiyle dikkat çeker.",
     "comments": [
       {
         "date": "16 11 2024",
@@ -496,6 +511,7 @@
     "year": 2013,
     "director": "Martin Scorsese",
     "rate": "8.2",
+    "description": "The Wolf of Wall Street, Jordan Belfort adlı bir borsacının, zenginlik ve güç arayışında yolsuzluk, dolandırıcılık ve aşırılıklarla dolu hayatını konu alır. Film, sınırsız hırs, yozlaşmışlık ve Amerikan rüyası üzerindeki karanlık yorumuyla dikkat çeker.",
     "comments": [
       {
         "date": "15 11 2024",
@@ -532,6 +548,7 @@
     "year": 1997,
     "director": "James Cameron",
     "rate": "7.8",
+    "description": "Titanic, 1912’de batmak üzere olan lüks yolcu gemisi Titanic'te karşılaşan Jack ve Rose’un dramatik aşk hikayesini anlatır. Film, görselliği, duygusal yoğunluğu ve tarihle harmanlanmış öyküsüyle sinema tarihinin en ikonik yapımlarından biridir.",
     "comments": [
       {
         "date": "10 11 2024",
@@ -558,6 +575,7 @@
     "year": 2010,
     "director": "Christopher Nolan",
     "rate": "8.8",
+    "description": "Inception, rüya içinde rüya konseptiyle, zihinsel manipülasyon ve bilinçaltına yapılan yolculuğu keşfeder. Dom Cobb’un suçlarından arınmak için rüya hırsızlığı yapması gereken bir grup ile birlikte karmaşık bir göreve atılması konu edilir.",
     "comments": [
       {
         "date": "12 11 2024",
@@ -584,6 +602,7 @@
     "year": 2016,
     "director": "Damien Chazelle",
     "rate": "8.0",
+    "description": "La La Land, Los Angeles'ta hayallerinin peşinden giden iki sanatçının aşkını ve hayal kırıklıklarını anlatan müzikal bir dramadır. Film, görselliği, müzikleri ve karakter derinlikleriyle hem romantizmi hem de melankoliyi bir arada sunar.",
     "comments": [
       {
         "date": "15 11 2024",
@@ -620,6 +639,7 @@
     "year": 2023,
     "director": "Christopher Nolan",
     "rate": "8.9",
+    "description": "Oppenheimer, atom bombasının yaratılmasına öncülük eden J. Robert Oppenheimer’ın hayatını ve Manhattan Projesi'ndeki rolünü ele alır. Film, bilimsel ilerleme ile ahlaki sorgulamaları derinlemesine işler.",
     "comments": [
       {
         "date": "16 11 2024",
